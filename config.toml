@@ -1,4 +1,7 @@
 baseurl = ""
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "aglaus"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-09"
