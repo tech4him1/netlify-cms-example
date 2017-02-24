@@ -50,8 +50,8 @@ collections: # A list of collections the CMS should be able to edit
     description: "Author descriptions"
     fields:
       - name: authors
-          label: Authors
-          widget: list
-          fields:
-            - {label: "Name", name: "name", widget: "string"}
-            - {label: "Description", name: "description", widget: "markdown"}
+        label: Authors
+        widget: list
+        fields:
+          - {label: "Name", name: "name", widget: "string"}
+          - {label: "Description", name: "description", widget: "markdown"}
