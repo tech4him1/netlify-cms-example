@@ -3,7 +3,6 @@ backend:
   repo: tech4him1/netlify-cms-example # Path to your Github repository
   branch: master # Branch to update
 
-
 media_folder: "assets/uploads"
 
 collections: # A list of collections the CMS should be able to edit
