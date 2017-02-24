@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: netlify-auth
   repo: tech4him1/netlify-cms-example # Path to your Github repository
   branch: master # Branch to update
 
