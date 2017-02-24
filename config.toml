@@ -1,4 +1,4 @@
-baseurl = "https://tech4him1.github.io/netlify-cms-example/"
+baseurl = ""
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "beautifulhugo"
+theme = "aglaus"
