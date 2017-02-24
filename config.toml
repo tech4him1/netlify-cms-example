@@ -1,5 +1,4 @@
-baseurl = ""
-relativeURLs = true
+baseurl = "https://tech4him1.github.io/netlify-cms-example/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "beautifulhugo"
