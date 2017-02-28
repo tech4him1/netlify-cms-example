@@ -1,6 +1,6 @@
 backend:
-  name: gitlab
-  repo: tech4him/netlify-cms-example
+  name: github
+  repo: tech4him1/netlify-cms-example
   branch: master
 
 media_folder: "static/uploads"
