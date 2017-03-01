@@ -5,9 +5,7 @@ list:
   - a
   - b
   - c
-select: 'yes'
-relation: '1: 2'
 ---
 
-![null](/uploads/7ali0ryyq6s-pumabg.jpg)
+Hi Ya'll!
 
