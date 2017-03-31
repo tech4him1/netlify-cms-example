@@ -1,6 +1,5 @@
 ---
 title: Test
-date: {}
 list:
   duck: a
   goose: b
