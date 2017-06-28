@@ -1,14 +1,14 @@
 ---
 title: Contact Kitty
 ---
-<form name="contact" action="thank-you" netlify>
+<form name="contact" netlify>
   <p>
     <label>Your Name:</label>
     <input type="text" name="name">
   </p>
   <p>
     <label>Your Email</label>
-    <input type="email" name="email">
+    <input type="emaill" name="email">
   </p>
   <p>
     <label>Message</label>
