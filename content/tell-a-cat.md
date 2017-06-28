@@ -1,7 +1,7 @@
 ---
 title: Contact Kitty
 ---
-<form name="contact" netlify>
+<form name="contact" action="thank-you" netlify>
   <p>
     <label>Your Name:</label>
     <input type="text" name="name">
